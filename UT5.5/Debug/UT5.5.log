@@ -1,0 +1,9 @@
+﻿  UT5.5.cpp
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,36): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,32): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,28): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,24): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,20): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,16): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+D:\Student\Volvenko Ivan IT-12\AP\PR5.5\UT5.5\UT5.5.cpp(16,12): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+  UT5.5.vcxproj -> D:\Student\Volvenko Ivan IT-12\AP\PR5.5\Debug\UT5.5.dll
